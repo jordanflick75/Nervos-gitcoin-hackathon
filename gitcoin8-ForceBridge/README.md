@@ -1,5 +1,5 @@
 # Gitcoin: 8) Modify The Ported DApp So It Supports Ethereum Assets Via Force Bridge
-### Grocery Management DApp
+### Grocery Management DApp + Froce Bridge
 
 - 1- Screenshot and Video
 
