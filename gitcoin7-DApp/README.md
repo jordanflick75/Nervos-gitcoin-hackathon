@@ -1,17 +1,17 @@
 # Gitcoin: 7) Port An Existing Ethereum DApp To Polyjuice 
 ### Grocery Management DApp
 
-1- Screenshot and Video
+- 1- Screenshot and Video
 
 <a href="https://youtu.be/bFndOyUQFmo"> Video Link </a>
 
 <img src="https://github.com/jordanflick75/Nervos-gitcoin-hackathon/blob/master/gitcoin7-DApp/grocery.png" />
 
-2- Project Link
+- 2- Project Link
 
 <a href="https://github.com/jordanflick75/Gitcoin-Dapp">Project Code Link</a>
 
-3- Contract 
+- 3- Contract 
 
 Deployed Contract Address:
 
